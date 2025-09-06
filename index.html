@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Finds WorldReps</title>
+  <link rel="stylesheet" href="styles.css?v=final4" />
+</head>
+<body>
+  <!-- HERO con imagen de fondo y título HTML (no incrustado en la imagen) -->
+  <section id="hero">
+    <h1 class="hero-title">Finds WorldReps</h1>
+  </section>
+
+  <!-- Header con marca, traductor y buscador arriba -->
+  <header>
+    <div class="brand"><span class="dot"></span><h2>Finds WorldReps</h2></div>
+    <form id="siteSearch" role="search" aria-label="Buscar en el sitio">
+      <input type="search" id="q" placeholder="Buscar..." />
+      <button type="submit" aria-label="Buscar">🔍</button>
+    </form>
+    <div id="translate"></div>
+    <button id="menuBtn" class="menu-btn" aria-label="Abrir menú">
+      <svg viewBox="0 0 24 24" width="28" height="28"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+  </header>
+
+  <aside id="sidebar">
+    <button id="closeSidebar" class="close-btn">✖</button>
+    <input type="search" id="mobileSearch" placeholder="Buscar productos..." />
+    <ul id="categoryMenu"></ul>
+  </aside>
+
+  <main>
+    <section class="grid" id="productGrid"></section>
+  
+    <section id="como-comprar" class="container">
+      <h2>Cómo comprar en CnFans</h2>
+      <ol>
+        <li><strong>REGÍSTRATE PRIMERO:</strong> <a href="https://cnfans.com/register?ref=1198104" target="_blank" rel="noopener">Crea tu cuenta en CnFans aquí</a>.</li>
+        <li><strong>STEP1: Select Product</strong>
+          <ul>
+            <li><strong>Method 1: Copy & Paste Original Product Link</strong> — Pega enlaces de Taobao, Tmall, 1688 o Weidian en el buscador de CnFans. Si tu enlace no es de esas webs, usa “DIY Orders”.</li>
+            <li><strong>Method 2: Search Keywords</strong> — Busca por nombre/palabras clave.</li>
+            <li><strong>Method 3: Image Search</strong> — Sube una foto del producto para buscarlo.</li>
+            <li><strong>Method 4: DIY Orders</strong> — Para Xianyu, Pinduoduo, Yupoo u otras no soportadas.</li>
+          </ul>
+        </li>
+        <li><strong>STEP2: Submit Order</strong> — Elige modelo/talla/color/cantidad y añade al carrito.</li>
+        <li><strong>STEP3: Pay</strong> — Paga producto(s) y posible envío doméstico en China.</li>
+        <li><strong>STEP4: Purchasing</strong> — El agente compra y envía al almacén CnFans (sigue el estado en “Orders”).</li>
+        <li><strong>STEP5: QC & Storage</strong> — 3–5 fotos de control de calidad; 60 días de almacenamiento gratis.</li>
+        <li><strong>STEP6: Submit for Int’l Shipping</strong> — Desde “Warehouse”, elige línea de envío y destinatario.</li>
+        <li><strong>STEP7: Parcel Packing</strong> — Se embala y calcula el coste real por peso/volumen.</li>
+        <li><strong>STEP8: Delivery</strong> — Envío internacional; seguimiento en “Parcel”.</li>
+        <li><strong>STEP9: Delivered & Review</strong> — Confirma recepción y obtén recompensas por reseña.</li>
+      </ol>
+    </section>
+
+    <section id="faq" class="container">
+      <h2>Preguntas frecuentes</h2>
+      <details><summary>¿Es seguro comprar en CnFans?</summary><p>Sí, la plataforma ofrece pagos y protección del comprador.</p></details>
+      <details><summary>¿Cuánto tarda el envío?</summary><p>Normalmente 7–20 días, según línea de envío y destino.</p></details>
+      <details><summary>¿Vendéis directamente?</summary><p>No. Enlazamos productos y te llevamos al vendedor en CnFans/Weidian.</p></details>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2025 Finds WorldReps</p>
+    <div class="socials">
+      <a href="https://t.me/addlist/aYLeX4pNQyhlMDQ8" target="_blank" rel="noopener">Telegram</a>
+      <a href="https://www.instagram.com/worldrepsss/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.tiktok.com/@planetfashionx" target="_blank" rel="noopener">TikTok</a>
+    </div>
+  </footer>
+
+  <script src="categories.js?v=final4"></script>
+  <script src="scripts.js?v=final4"></script>
+  <script>
+    function googleTranslateElementInit() { new google.translate.TranslateElement({pageLanguage:'es'}, 'translate'); }
+  </script>
+  <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+</html>
