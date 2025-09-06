@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WorldReps Finds</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <button id="menuBtn" aria-label="Abrir menú">☰</button>
+    <h1 class="logo">🌍 WorldReps Finds</h1>
+    <form id="siteSearch" class="search">
+      <input id="q" type="search" placeholder="Buscar productos…" autocomplete="off" />
+      <button type="submit">Buscar</button>
+    </form>
+  </header>
+
+  <aside id="sidebar">
+    <div class="side-header">
+      <strong>Categorías</strong>
+      <button id="closeSidebar" aria-label="Cerrar">×</button>
+    </div>
+    <ul id="categoryMenu"></ul>
+  </aside>
+
+  <main>
+    <section id="hero">
+      <div class="hero-inner">
+        <h2>Tus hallazgos al mejor precio</h2>
+        <p>Explora el catálogo con carga rápida y compra vía CnFans/Weidian.</p>
+        <button onclick="activateProductsView()">Ver catálogo</button>
+      </div>
+    </section>
+
+    <section id="productos" class="container" style="display:none">
+      <h2>Catálogo</h2>
+      <div id="productGrid" class="grid"></div>
+      <button id="loadMore" onclick="renderMore()">Cargar más</button>
+    </section>
+
+    <section id="como-comprar" class="container">
+      <h2>Cómo comprar en CnFans</h2>
+      <ol>
+        <li><strong>Regístrate:</strong> <a href="https://cnfans.com/register?ref=1198104" target="_blank" rel="noopener">Crea tu cuenta</a>.</li>
+        <li><strong>STEP1:</strong> Link/keyword/imagen o “DIY Orders”.</li>
+        <li><strong>STEP2:</strong> Enviar pedido · <strong>STEP3:</strong> Pago.</li>
+        <li><strong>STEP4–9:</strong> Compra → QC → Envío internacional → Entrega → Reseña.</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="footer">🔒 Compra segura a través de CnFans/Weidian · © 2025 WorldReps Finds</footer>
+
+  <script src="js/categories.js"></script>
+  <script src="js/scripts.js"></script>
+</body>
+</html>
