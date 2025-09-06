@@ -1,0 +1,569 @@
+[
+  {
+    "title": "Birkenstock Boston",
+    "price": "23 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_001.webp",
+    "cnfans": "https://cnfans.com/product?id=7433832149&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7433832149"
+  },
+  {
+    "title": "Prada Cups",
+    "price": "40 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_002.webp",
+    "cnfans": "https://cnfans.com/product?id=7407554747&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7407554747"
+  },
+  {
+    "title": "LV Skate Sneaker",
+    "price": "48 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_003.webp",
+    "cnfans": "https://cnfans.com/product?id=7399063773&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7399063773"
+  },
+  {
+    "title": "LV Trainers",
+    "price": "48 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_004.webp",
+    "cnfans": "https://cnfans.com/product?id=7399063773&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7399063773"
+  },
+  {
+    "title": "Rayo Mcqueen Crocs",
+    "price": "16 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_005.webp",
+    "cnfans": "https://cnfans.com/product?id=7406196585&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7406196585"
+  },
+  {
+    "title": "Asics Gel NYC",
+    "price": "40 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_006.webp",
+    "cnfans": "https://cnfans.com/product?id=7431280613&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7431280613"
+  },
+  {
+    "title": "Off-White Shoes",
+    "price": "38 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_007.webp",
+    "cnfans": "https://cnfans.com/product?id=7447315520&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7447315520"
+  },
+  {
+    "title": "Bape Shoes",
+    "price": "39 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_008.webp",
+    "cnfans": "https://cnfans.com/product?id=7469268461&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7469268461"
+  },
+  {
+    "title": "Nike Hot Step 2 Drake NOCTA",
+    "price": "36 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_009.webp",
+    "cnfans": "https://cnfans.com/product?id=7342619284&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7342619284"
+  },
+  {
+    "title": "Travis Scott Jordan 1 Low",
+    "price": "25 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_010.webp",
+    "cnfans": "https://cnfans.com/product?id=7300094355&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7300094355"
+  },
+  {
+    "title": "Jordan 4",
+    "price": "37 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_011.webp",
+    "cnfans": "https://cnfans.com/product?id=7247337472&platform=WEIDIAN",
+    "weidian": "https://shop1710883753.v.weidian.com/item.html?itemID=7247337472"
+  },
+  {
+    "title": "New Balance 530",
+    "price": "37 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_012.webp",
+    "cnfans": "https://cnfans.com/product?id=7290197815&platform=WEIDIAN",
+    "weidian": "https://shop1710883753.v.weidian.com/item.html?itemID=7290197815"
+  },
+  {
+    "title": "Puma Speedcat",
+    "price": "40 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_013.webp",
+    "cnfans": "https://cnfans.com/product?id=7298411487&platform=WEIDIAN",
+    "weidian": "https://shop1710883753.v.weidian.com/item.html?itemID=7298411487"
+  },
+  {
+    "title": "UGG Boots",
+    "price": "29 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_014.webp",
+    "cnfans": "https://cnfans.com/product?id=7286410331&platform=WEIDIAN",
+    "weidian": "https://shop1710883753.v.weidian.com/item.html?itemID=7286410331"
+  },
+  {
+    "title": "Nike Shox I",
+    "price": "38 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_015.webp",
+    "cnfans": "https://cnfans.com/product?id=7300260702&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7300260702"
+  },
+  {
+    "title": "Nike Shox II",
+    "price": "31 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_016.webp",
+    "cnfans": "https://cnfans.com/product?id=7460434202&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7460434202"
+  },
+  {
+    "title": "Jordan 11",
+    "price": "38 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_017.webp",
+    "cnfans": "https://cnfans.com/product?id=7448714694&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7448714694"
+  },
+  {
+    "title": "Air Force 1",
+    "price": "27 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_018.webp",
+    "cnfans": "https://cnfans.com/product?id=7417416879&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7417416879"
+  },
+  {
+    "title": "Yeezy Slide",
+    "price": "12 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_019.webp",
+    "cnfans": "https://cnfans.com/product?id=7401546562&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7401546562"
+  },
+  {
+    "title": "Yeezy Foam",
+    "price": "10 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_020.webp",
+    "cnfans": "https://cnfans.com/product?id=7442815142&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7442815142"
+  },
+  {
+    "title": "Yeezy 350",
+    "price": "10 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_021.webp",
+    "cnfans": "https://cnfans.com/product?id=7442815142&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7442815142"
+  },
+  {
+    "title": "Golden Goose Shoes",
+    "price": "40 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_022.webp",
+    "cnfans": "https://cnfans.com/product?id=7461277074&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7461277074"
+  },
+  {
+    "title": "New Balance 327",
+    "price": "33 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_023.webp",
+    "cnfans": "https://cnfans.com/product?id=7508656862&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7508656862"
+  },
+  {
+    "title": "New Balance 9060",
+    "price": "36 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_024.webp",
+    "cnfans": "https://cnfans.com/product?id=7461330978&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7461330978"
+  },
+  {
+    "title": "Hoka Shoes",
+    "price": "37 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_025.webp",
+    "cnfans": "https://cnfans.com/product?id=7527425645&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7527425645"
+  },
+  {
+    "title": "Adidas Campus",
+    "price": "36 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_026.webp",
+    "cnfans": "https://cnfans.com/product?id=7509031810&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7509031810"
+  },
+  {
+    "title": "Maison Margiela Shoes",
+    "price": "43 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_027.webp",
+    "cnfans": "https://cnfans.com/product?id=7521430151&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7521430151"
+  },
+  {
+    "title": "QC Shoes",
+    "price": "36 €",
+    "category": "Zapatillas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_028.webp",
+    "cnfans": "https://cnfans.com/product?id=7509417923&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7509417923"
+  },
+  {
+    "title": "Real Madrid Football T-Shirts",
+    "price": "12 €",
+    "category": "Camisetas",
+    "subcategory": "Camisetas cortas",
+    "image": "img/products/pdfimg_029.webp",
+    "cnfans": "http://cnfans.com/product?id=7448419205&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7448419205"
+  },
+  {
+    "title": "T-Shirt Scuffers",
+    "price": "10 €",
+    "category": "Camisetas",
+    "subcategory": "Camisetas cortas",
+    "image": "img/products/pdfimg_030.webp",
+    "cnfans": "https://cnfans.com/product?id=7525087617&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7525087617"
+  },
+  {
+    "title": "Football Retro T-Shirts for Spanish Teams",
+    "price": "12 €",
+    "category": "Camisetas",
+    "subcategory": "Camisetas cortas",
+    "image": "img/products/pdfimg_031.webp",
+    "cnfans": "https://cnfans.com/product?id=7520918625&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7520918625"
+  },
+  {
+    "title": "Palm Angels T-Shirts",
+    "price": "10 €",
+    "category": "Camisetas",
+    "subcategory": "Camisetas cortas",
+    "image": "img/products/pdfimg_032.webp",
+    "cnfans": "https://cnfans.com/product?id=7451506856&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7451506856"
+  },
+  {
+    "title": "The North Face T-Shirts",
+    "price": "15 €",
+    "category": "Camisetas",
+    "subcategory": "Camisetas cortas",
+    "image": "img/products/pdfimg_033.webp",
+    "cnfans": "https://cnfans.com/product?id=7458570143&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7458570143"
+  },
+  {
+    "title": "Chrome Hearts Long Sleeves",
+    "price": "18 €",
+    "category": "Camisetas",
+    "subcategory": "Camisetas de manga larga",
+    "image": "img/products/pdfimg_034.webp",
+    "cnfans": "https://cnfans.com/product?id=7442360472&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7442360472"
+  },
+  {
+    "title": "Alo Top",
+    "price": "15 €",
+    "category": "Camisetas",
+    "subcategory": "Camisetas cortas",
+    "image": "img/products/pdfimg_035.webp",
+    "cnfans": "https://cnfans.com/product?id=7433744855&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7433744855"
+  },
+  {
+    "title": "Polo Ralph Lauren",
+    "price": "12 €",
+    "category": "Camisetas",
+    "subcategory": "Polos",
+    "image": "img/products/pdfimg_036.webp",
+    "cnfans": "https://cnfans.com/product?id=7399319426&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7399319426"
+  },
+  {
+    "title": "Polo Lacoste",
+    "price": "8 €",
+    "category": "Camisetas",
+    "subcategory": "Polos",
+    "image": "img/products/pdfimg_037.webp",
+    "cnfans": "https://cnfans.com/product?id=7247739218&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7247739218"
+  },
+  {
+    "title": "Polo Moncler",
+    "price": "12 €",
+    "category": "Camisetas",
+    "subcategory": "Polos",
+    "image": "img/products/pdfimg_038.webp",
+    "cnfans": "https://cnfans.com/product?id=7446868541&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7446868541"
+  },
+  {
+    "title": "Nike Tech NOCTA and Central Cee",
+    "price": "22 €",
+    "category": "Pantalones",
+    "subcategory": "Pantalones largos",
+    "image": "img/products/pdfimg_039.webp",
+    "cnfans": "https://cnfans.com/product?id=7412163569&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7412163569"
+  },
+  {
+    "title": "Nike Tech",
+    "price": "20 €",
+    "category": "Pantalones",
+    "subcategory": "Pantalones largos",
+    "image": "img/products/pdfimg_040.webp",
+    "cnfans": "https://cnfans.com/product?id=7301057511&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7301057511"
+  },
+  {
+    "title": "Corteiz Tracksuit",
+    "price": "17 €",
+    "category": "Pantalones",
+    "subcategory": "Pantalones largos",
+    "image": "img/products/pdfimg_041.webp",
+    "cnfans": "https://cnfans.com/product?id=7313057863&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7313057863"
+  },
+  {
+    "title": "Under Armour Short Set",
+    "price": "10 €",
+    "category": "Pantalones",
+    "subcategory": "Pantalones cortos",
+    "image": "img/products/pdfimg_042.webp",
+    "cnfans": "https://cnfans.com/product?id=7448108531&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7448108531"
+  },
+  {
+    "title": "Burberry Shorts",
+    "price": "16 €",
+    "category": "Pantalones",
+    "subcategory": "Pantalones cortos",
+    "image": "img/products/pdfimg_043.webp",
+    "cnfans": "https://cnfans.com/product?id=7437329342&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7437329342"
+  },
+  {
+    "title": "Jordan Shorts",
+    "price": "11 €",
+    "category": "Pantalones",
+    "subcategory": "Pantalones cortos",
+    "image": "img/products/pdfimg_044.webp",
+    "cnfans": "https://cnfans.com/product?id=7463228858&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7463228858"
+  },
+  {
+    "title": "Corteiz Puffers",
+    "price": "40 €",
+    "category": "Abrigos / Chaquetas",
+    "subcategory": "Plumas",
+    "image": "img/products/pdfimg_045.webp",
+    "cnfans": "https://cnfans.com/product?id=7308852397&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7308852397"
+  },
+  {
+    "title": "Vest Canada Goose",
+    "price": "34 €",
+    "category": "Abrigos / Chaquetas",
+    "subcategory": "Chalecos",
+    "image": "img/products/pdfimg_046.webp",
+    "cnfans": "https://cnfans.com/product?id=7301354000&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7301354000"
+  },
+  {
+    "title": "Under Armour Vest",
+    "price": "25 €",
+    "category": "Abrigos / Chaquetas",
+    "subcategory": "Chalecos",
+    "image": "img/products/pdfimg_047.webp",
+    "cnfans": "https://cnfans.com/product?id=7534849187&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7534849187"
+  },
+  {
+    "title": "Carhartt Jackets",
+    "price": "22 €",
+    "category": "Abrigos / Chaquetas",
+    "subcategory": "Cortavientos",
+    "image": "img/products/pdfimg_048.webp",
+    "cnfans": "https://cnfans.com/product?id=7510510311&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7510510311"
+  },
+  {
+    "title": "Carhartt Puffers",
+    "price": "33 €",
+    "category": "Abrigos / Chaquetas",
+    "subcategory": "Plumas",
+    "image": "img/products/pdfimg_049.webp",
+    "cnfans": "https://cnfans.com/product?id=7536644715&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7536644715"
+  },
+  {
+    "title": "Polo Ralph Lauren Sweaters",
+    "price": "18 €",
+    "category": "Sudaderas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_050.webp",
+    "cnfans": "https://cnfans.com/product?id=7300409721&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7300409721"
+  },
+  {
+    "title": "Corteiz Sweaters",
+    "price": "18 €",
+    "category": "Sudaderas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_051.webp",
+    "cnfans": "https://cnfans.com/product?id=7313961438&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7313961438"
+  },
+  {
+    "title": "Lacoste Hoodie",
+    "price": "18 €",
+    "category": "Sudaderas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_052.webp",
+    "cnfans": "https://cnfans.com/product?id=7523686469&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7523686469"
+  },
+  {
+    "title": "Hoodie Scuffers",
+    "price": "12 €",
+    "category": "Sudaderas",
+    "subcategory": "",
+    "image": "img/products/pdfimg_053.webp",
+    "cnfans": "https://cnfans.com/product?id=7533166806&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7533166806"
+  },
+  {
+    "title": "Nike Balaclava",
+    "price": "12 €",
+    "category": "Accesorios",
+    "subcategory": "Gorros / Gorras",
+    "image": "img/products/pdfimg_054.webp",
+    "cnfans": "https://cnfans.com/product?id=7491590580&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7491590580"
+  },
+  {
+    "title": "Goyard Card Holder",
+    "price": "10 €",
+    "category": "Accesorios",
+    "subcategory": "Carteras",
+    "image": "img/products/pdfimg_055.webp",
+    "cnfans": "https://cnfans.com/product?id=7262183904&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7262183904"
+  },
+  {
+    "title": "LV Belt",
+    "price": "10 €",
+    "category": "Accesorios",
+    "subcategory": "Cinturones",
+    "image": "img/products/pdfimg_056.webp",
+    "cnfans": "https://cnfans.com/product?id=7441008875&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7441008875"
+  },
+  {
+    "title": "Gucci Fanny Pack",
+    "price": "15 €",
+    "category": "Accesorios",
+    "subcategory": "Riñoneras",
+    "image": "img/products/pdfimg_057.webp",
+    "cnfans": "https://cnfans.com/product?id=7499765602&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7499765602"
+  },
+  {
+    "title": "Emporio Armani Watches",
+    "price": "35 €",
+    "category": "Relojes",
+    "subcategory": "Gama media",
+    "image": "img/products/pdfimg_058.webp",
+    "cnfans": "https://cnfans.com/product?id=7491199911&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7491199911"
+  },
+  {
+    "title": "Omega Watches",
+    "price": "60 €",
+    "category": "Relojes",
+    "subcategory": "Gama alta",
+    "image": "img/products/pdfimg_059.webp",
+    "cnfans": "https://cnfans.com/product?id=7508921608&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7508921608"
+  },
+  {
+    "title": "JBL Flip 6",
+    "price": "15 €",
+    "category": "Electrónica",
+    "subcategory": "Altavoces",
+    "image": "img/products/pdfimg_060.webp",
+    "cnfans": "https://cnfans.com/product?id=7232105441&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7232105441"
+  },
+  {
+    "title": "PS5 Controller",
+    "price": "18 €",
+    "category": "Electrónica",
+    "subcategory": "Accesorios electrónicos",
+    "image": "img/products/pdfimg_061.webp",
+    "cnfans": "https://cnfans.com/product?id=7232049457&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7232049457"
+  },
+  {
+    "title": "Ralph Lauren Perfume",
+    "price": "18 €",
+    "category": "Perfumes",
+    "subcategory": "",
+    "image": "img/products/pdfimg_062.webp",
+    "cnfans": "https://cnfans.com/product?id=7310253520&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7310253520"
+  },
+  {
+    "title": "Labubu Toys",
+    "price": "20 €",
+    "category": "Toys",
+    "subcategory": "",
+    "image": "img/products/pdfimg_063.webp",
+    "cnfans": "https://cnfans.com/product?id=7489976255&platform=WEIDIAN",
+    "weidian": "https://weidian.com/item.html?itemID=7489976255"
+  }
+]
